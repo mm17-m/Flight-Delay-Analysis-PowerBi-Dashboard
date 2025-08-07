@@ -61,11 +61,11 @@ Focuses on identifying patterns in delayed flights by carrier and airport.
 ---
 
 ## ✅ Skills Applied
-Star Schema Data Modeling
-DAX Calculations & Measures
-Power BI Dashboard Design
-Visual storytelling with data
-Bookmarks
+- Star Schema Data Modeling
+- DAX Calculations & Measures
+- Power BI Dashboard Design
+- Visual storytelling with data
+- Bookmarks
 
 ---
 
